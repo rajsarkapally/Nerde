@@ -27,4 +27,4 @@ comment:
   
 ignore:
   - "src/main/java/com/salesforce/nerde/service/ResourceDiscoveryService.java"
-  - "/src/main/java/com/salesforce/nerde/service/ResourceDiscoveryService.java"
+  - "src/main/java/com/salesforce/nerde/service/NerveHost.java"
